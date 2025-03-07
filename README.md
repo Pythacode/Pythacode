@@ -1,7 +1,8 @@
-## Salut tous le monde !
+## `print("Hello world !")`
 
-- 🔭 En çe moment je bosse sur :
-- Livramis
+- 🔭 I’m currently working on *Livramis*
+- 📫 How to reach me : [titouan.petit-frulio@laposte.net](mailto:titouan.petit-frulio@laposte.net)
+
 <!--
 **Pythacode/Pythacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
