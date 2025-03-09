@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on *Livramis*
 - 📫 How to reach me : [titouan.petit-frulio@laposte.net](mailto:titouan.petit-frulio@laposte.net)
-- 🗄️ My CV : [Curriculum Vitae](https://www.pythacode.github.io)
+- 🗄️ My CV : [Curriculum Vitae](https://pythacode.github.io)
 
 <!--
 **Pythacode/Pythacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
