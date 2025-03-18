@@ -4,6 +4,10 @@
 - 📫 How to reach me : [titouan.petit-frulio@laposte.net](mailto:titouan.petit-frulio@laposte.net)
 - 🗄️ My CV : [Curriculum Vitae](https://pythacode.github.io)
 
+## I speak
+- Fench
+- English (a little)
+- Python
 <!--
 **Pythacode/Pythacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
