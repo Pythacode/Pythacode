@@ -1,6 +1,6 @@
 ## `print("Hello world !")`
 
-![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpythacode&query=Public%20repos&label=public_repos)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpythacode&query=public_repos&label=Public%20repos)
 
 - 🔭 I’m currently working on mot projects
 - 📫 How to reach me : [titouan.petit-frulio@laposte.net](mailto:titouan.petit-frulio@laposte.net)
