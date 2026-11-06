@@ -21,8 +21,8 @@
 
 ## Favourites language
 
-| ![php_logo](https://cdn.simpleicons.org/php) | ![Python logo](https://cdn.simpleicons.org/python) | ![HTML logo](https://cdn.simpleicons.org/html5) |
-| -------------------------------------------- | -------------------------------------------------- | ----------------------------------------------- |
+![php_logo](https://cdn.simpleicons.org/php) ![Python logo](https://cdn.simpleicons.org/python) ![HTML logo](https://cdn.simpleicons.org/html5)
+
 ## <img src="https://cdn.simpleicons.org/opensourceinitiative" height="25" alt="open source initiative" style="vertical-align:middle;" /> Open source 
 
 The majority of my projet is open source, under licence [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en).
@@ -30,10 +30,10 @@ I love open source <3.
 
 ### Projects I love
 
-| [![obsidian logo](https://cdn.simpleicons.org/obsidian)](https://obsidian.md)                                                                 | [![linux logo](https://cdn.simpleicons.org/linux)](https://www.linux.org/)           | [![Logo thunderbird](https://cdn.simpleicons.org/thunderbird)](https://www.thunderbird.net/)                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| [<img src="https://prologin.org/static/img/logo_cube.png" height="40" alt="Prologin" style="vertical-align:middle;" />](https://prologin.org) | [![Ummi Logo](https://cdn.simpleicons.org/umami)](https://umami.is/)                 | [<img src="https://framasoft.org/img/logo-white.svg" height="40" alt="Framasoft" style="vertical-align:middle;" />](https://framasoft.org) |
-| [![Adruino logo](https://cdn.simpleicons.org/arduino)](https://arduino.cc)                                                                    | [![Infomaniak logo](https://cdn.simpleicons.org/infomaniak)](https://infomaniak.com) | [![kde logo](https://cdn.simpleicons.org/kde)](https://kde.org)                                                                            |
+[![obsidian logo](https://cdn.simpleicons.org/obsidian)](https://obsidian.md) [![linux logo](https://cdn.simpleicons.org/linux)](https://www.linux.org/) [![Logo thunderbird](https://cdn.simpleicons.org/thunderbird)](https://www.thunderbird.net/)
+
+[<img src="https://prologin.org/static/img/logo_cube.png" height="40" alt="Prologin" style="vertical-align:middle;" />](https://prologin.org) [![Ummi Logo](https://cdn.simpleicons.org/umami)](https://umami.is/) [<img src="https://framasoft.org/img/logo-white.svg" height="40" alt="Framasoft" style="vertical-align:middle;" />](https://framasoft.org)
+[![Adruino logo](https://cdn.simpleicons.org/arduino)](https://arduino.cc) [![Infomaniak logo](https://cdn.simpleicons.org/infomaniak)](https://infomaniak.com) [![kde logo](https://cdn.simpleicons.org/kde)](https://kde.org)
 
 ---
 [More information about me](nathanaelle.org)
