@@ -3,9 +3,8 @@
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fpythacode&query=public_repos&logo=git&logoColor=white&label=Public%20repos&color=blue)
 
 
-- 🔭 I’m currently working on mot projects
-- 📫 How to reach me : [titouan.petit-frulio@laposte.net](mailto:titouan.petit-frulio@laposte.net)
-- 🗄️ My CV : [Curriculum Vitae](https://pythacode.github.io)
+- 📫 How to reach me : [contact@nathanaelle.org](mailto:contact@nathanaelle.org)
+- 🗄️ My CV : [Curriculum Vitae](https://nathanaelle.org)
 
 ## I speak
 - Fench
