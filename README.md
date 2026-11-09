@@ -32,7 +32,7 @@ I love open source <3.
 ### Projects I love
 
 <a href="https://obsidian.md"><img src="https://cdn.simpleicons.org/obsidian" height="50" alt="Obsidian" /></a> <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux" height="50" alt="Linux" /></a> <a href="https://www.thunderbird.net/"><img src="https://cdn.simpleicons.org/thunderbird" height="50" alt="Thunderbird" /></a> \
-<a href="https://prologin.org"><img src="https://prologin.org/static/img/logo_cube.png" height="50" alt="Prologin" /></a> <a href="https://umami.is/"><img src="https://cdn.simpleicons.org/umami" height="50" alt="Umami" /></a> <a href="https://framagit.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://framasoft.org/img/logo-white.svg" /><img src="https://framasoft.org/img/logo.svg" height="50" alt="Framasoft" /></picture></a> \
+<a href="https://prologin.org"><img src="https://prologin.org/static/img/logo_cube.png" height="50" alt="Prologin" /></a> <a href="https://umami.is/"><img src="https://cdn.simpleicons.org/umami" height="50" alt="Umami" /></a> <a href="https://framasoft.org"><picture><source media="(prefers-color-scheme: dark)" srcset="https://framasoft.org/img/logo-white.svg" /><img src="https://framasoft.org/img/logo.svg" height="50" alt="Framasoft" /></picture></a> \
 <a href="https://arduino.cc"><img src="https://cdn.simpleicons.org/arduino" height="50" alt="Arduino" /></a> <a href="https://infomaniak.com"><img src="https://cdn.simpleicons.org/infomaniak" height="50" alt="Infomaniak" /></a> <a href="https://kde.org"><img src="https://cdn.simpleicons.org/kde" height="50" alt="KDE" /></a>
 
 ---
